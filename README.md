@@ -4,7 +4,7 @@
 
 > The moment user **clicks** the **button**, there will be an **overlay** and some modal content.
 
-> There is also an **option** to **close** the model.
+> There is also an **button** to **close** the model.
 
 ![](modal1.png)
 ![](modal2.png)
