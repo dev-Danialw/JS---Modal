@@ -6,5 +6,5 @@
 
 > There is also an **button** to **close** the model.
 
-![](modal1.png)
-![](modal2.png)
+![](demo/modal1.png)
+![](demo/modal2.png)
